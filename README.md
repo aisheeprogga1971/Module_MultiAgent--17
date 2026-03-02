@@ -18,11 +18,17 @@ The agent interacts with multiple databases and answers natural language queries
 git clone <https://github.com/aisheeprogga1971/Module_MultiAgent--17>
 cd Module_17
 
+Create environment
 python -m venv .venv
+Activate environment
 .\.venv\Scripts\Activate.ps1
 
+Install necessary 
 pip install -r requirements.txt
+
+Run the app.py
 streamlit run app.py
+
 **How to use it:**  
 1. Open PowerShell in your project folder.  
 2. Copy-paste the above block.  
