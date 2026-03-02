@@ -15,7 +15,7 @@ The agent interacts with multiple databases and answers natural language queries
 ## Setup Instructions
 1. Clone this repository:
 `powershell
-git clone < >
+git clone <https://github.com/aisheeprogga1971/Module_MultiAgent--17>
 cd Module_17
 
 python -m venv .venv
